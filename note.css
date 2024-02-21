@@ -1,0 +1,14 @@
+
+.bg-white { color: #F5F5F5; }
+.brown-1 { color: #765827; }
+.brown-2 { color: #65351F; }  
+.coffee { color: #3F2305; }
+
+
+.header-dark { color: #2F2F2F; }
+.header-description { color: #64748B; }
+
+
+.box-shadow { 
+    box-shadow: 0 5px 15px rgba(101, 69, 31, 1); 
+}
